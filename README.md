@@ -1,1 +1,2 @@
 # GatchaGame
+## 練習
